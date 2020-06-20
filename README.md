@@ -13,7 +13,9 @@ git config --local user.email "xxxxx"
 
 git clone {remote_url} .
 
-git add -A git config --list
+git add -A 
+
+git config --list
 
 git commit -m "hello world"
 
