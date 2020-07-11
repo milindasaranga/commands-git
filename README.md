@@ -15,3 +15,6 @@ git diff
 git status  
 git pull origin master  
 git push origin master  
+
+#set git URL  
+git remote set-url origin <git URL>
