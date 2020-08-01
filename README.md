@@ -17,4 +17,7 @@ git pull origin master
 git push origin master  
 
 #set git URL  
-git remote set-url origin "git URL"
+git remote set-url origin "git URL"  
+
+#add working directory to git  
+git remote add origin "git URL"  
